@@ -9,5 +9,11 @@
 - Look at the SCSS file for clues to what the HTML cards should look like
 - We're looking for clean code here, make sure you remove extra console.logs and commented code, and remember to format your code!
 
+## Extension
+- Add the ability to filter through the pokémon, here are a couple of ideas:
+  - Search by name
+  - Be able to change the number of results
+  - Filter by available types  
+
 ## Final Product
 ![image](https://user-images.githubusercontent.com/51906345/154310989-0856ddfc-2025-47a6-8e37-6219e8ab439e.png)
